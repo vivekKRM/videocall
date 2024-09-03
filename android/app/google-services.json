@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665591451595",
+    "project_id": "videocalls-c051e",
+    "storage_bucket": "videocalls-c051e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665591451595:android:cae23f236e4f347ba0f04e",
+        "android_client_info": {
+          "package_name": "com.example.videocalls"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Mq8Jx0qRggI_VhZe3K9SEvHlSONYHl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
